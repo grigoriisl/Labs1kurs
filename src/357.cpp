@@ -6,7 +6,7 @@
 // Description : Hello World in C++, Ansi-style
 //============================================================================
 
-/* #include <iostream>
+ #include <iostream>
 #include <iomanip>
 using namespace std;
 
@@ -27,7 +27,7 @@ int main() {
 		cout << "Превышение скорости!";
 	}
 	return 0;
-} */
+}
 
 
 /*#include <iostream>
